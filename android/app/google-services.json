@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517415008729",
+    "project_id": "bossbus-882e9",
+    "storage_bucket": "bossbus-882e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517415008729:android:69886633b3f7f6e23ac1c8",
+        "android_client_info": {
+          "package_name": "com.bossbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517415008729-vkj2q30rq2nbiu8rj3j611u3qkb90fk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSrH574i48Snnn-vNKDM9Wh31zZXRu69g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517415008729-vkj2q30rq2nbiu8rj3j611u3qkb90fk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
